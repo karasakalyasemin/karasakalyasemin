@@ -26,7 +26,6 @@
 
  💫  Hakkımda:
 
-- 🐛 **Bug avcısı ve yok edici**. (Kodunuzu test etmeme izin verin, tüm hatalarınızı bulurum!)
 - "Kod dünyasında yeni bir yolculuğa çıktım ve bug avcısı olarak yeteneklerimi geliştiriyorum. Her hata bir öğrenme fırsatıdır ve
   ben bu yolda ilerlemeye kararlıyım."
 - İstanbul, Türkiye'de yaşıyorum.
